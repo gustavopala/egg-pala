@@ -1,0 +1,22 @@
+estrategia: primer programa
+definimos un struct
+1- crear archivo y abrirlo en modo lectura
+2-ingresar datos: 
+              con una estructura while
+3-grabar archivo
+4-cerrar archivo
+
+estrategia: segundo programa
+definomos un vector entero para la cantidad participantes por categoria
+definimos un vector para tipo string para las categorias
+definimos un struct para los tipos de datos
+1-abrimos el archivo en modo lectura
+2-procesamos inscriptos con una esctrutura while
+3-obtenemos inscriptos del archivo
+4-contamos los inscriptos por categoria con el vector
+5-ArmamosCadena de nombre y apellido
+7-mostrar inscriptos con categoria(switch)
+8-limpiar cadena
+9-calcular e informar porcentaje
+10-cerrar el archivo
+

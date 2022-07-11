@@ -19,4 +19,6 @@ definimos un struct para los tipos de datos
 8-limpiar cadena
 9-calcular e informar porcentaje
 10-cerrar el archivo
+11 prueba egg
+
 
